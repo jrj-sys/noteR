@@ -11,6 +11,7 @@ app.use(express.urlencoded({ extended: true }));
 // parse incoming JSON data
 app.use(express.json());
 app.use(express.static('client'));
+// use API and HTML routes within server.js 
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
