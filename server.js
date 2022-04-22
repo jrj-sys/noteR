@@ -1,6 +1,7 @@
 const express = require('express');
 const apiRoutes = require('./routes/apiRoutes.js');
 const htmlRoutes = require('./routes/htmlRoutes.js');
+// deployed to heroku || https://nameless-hamlet-86706.herokuapp.com/
 
 const PORT = process.env.PORT || 3001;
 
