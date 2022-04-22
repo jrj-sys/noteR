@@ -3,7 +3,7 @@
 ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
 
 ## Description
-NoteR is a simple note taking app, deployed to Heroku, that utilizes Express.js to allow a user to view all notes, add notes, delete notes, and update notes. It was created with the intent to practice Express routing specifically!
+noteR is a simple note taking app, deployed to Heroku, that utilizes Express.js to allow a user to view all notes, add notes, delete notes, and update notes. It was created with the intent to practice Express routing specifically!
 ## Table of Contents
 1. [Questions or Issues](#Questions)
 2. [Contribution](#Contribution)
